@@ -12,5 +12,5 @@
 # Тестовый прогон:
 <https://github.com/VeraChernyavskaya/web/blob/main/%20Chernyavskaya_test_run_20240908.pdf>
 
-#Баг-репорты:
+# Баг-репорты:
 <https://github.com/VeraChernyavskaya/web/blob/main/Chernyavskaya_bug_report_20240908.xlsx>
