@@ -13,3 +13,6 @@
 
 
 [Баг-репорты для корзины и истории заказов](<https://github.com/VeraChernyavskaya/web/blob/main/Chernyavskaya_bug_report_20240908.xlsx>)
+
+
+[Перехват трафика веб-приложения с помощью Charles Proxy](https://drive.google.com/drive/folders/1jORUFQB70ZA9Mo18J6QDeMCvNGQICyPH?usp=sharing)
